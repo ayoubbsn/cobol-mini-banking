@@ -505,16 +505,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-- 🐛 **Bug Reports**: Open an issue on GitHub
-- 💡 **Feature Requests**: Open an issue with the `enhancement` label
-- 📧 **Email**: your.email@example.com
-
----
-
 ## 🙏 Acknowledgments
 
 - **GnuCOBOL Team** - For the excellent open-source COBOL compiler
