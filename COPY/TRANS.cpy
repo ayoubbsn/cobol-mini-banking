@@ -1,0 +1,9 @@
+           05  TRANS-ID            PIC 9(08).
+           05  TRANS-ACCT-ID       PIC 9(05).
+           05  TRANS-TYPE          PIC X(01).
+               88 TRANS-DEPOSIT    VALUE 'D'.
+               88 TRANS-WITHDRAW   VALUE 'W'.
+               88 TRANS-TRANSFER   VALUE 'T'.
+           05  TRANS-AMOUNT        PIC S9(09)V99.
+           05  TRANS-DATE          PIC 9(08).
+           05  TRANS-TIME          PIC 9(06).

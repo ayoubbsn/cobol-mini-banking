@@ -1,0 +1,36 @@
+# Ignore compiled binaries
+BIN/
+
+# Ignore runtime data files (except samples)
+DATA/accounts.dat
+DATA/trans.dat
+DATA/batch_test_*.txt
+DATA/demo_batch.txt
+
+# Ignore object files
+*.o
+*.obj
+*.exe
+
+# Ignore temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore log files
+*.log
+
+# Keep sample input files
+!DATA/batch_input.txt
+!DATA/batch_input_insufficient.txt
